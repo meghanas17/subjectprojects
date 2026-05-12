@@ -1,0 +1,14 @@
+Enter text: hi
+→ Predicted Language: English
+
+Enter text: hello how are you
+→ Predicted Language: English
+
+Enter text: ನೀವು ಹೇಗಿದ್ದೀರಿ
+→ Predicted Language: Kannada
+
+Enter text: வணக்கம்
+→ Predicted Language: Tamil
+
+Enter text: आप कैसे हैं
+→ Predicted Language: Hindi
